@@ -1,2 +1,2 @@
 # gym-env
-Create sample environment in OpenAI Gim
+Create sample environment in OpenAI Gym
