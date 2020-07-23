@@ -1,2 +1,2 @@
 # gym-env
-Create sample environment in OpenAI Gym
+Auto create skeleton custom gym environment code.
